@@ -1,0 +1,20 @@
+th{
+    background: linear-gradient(rgb(158, 158, 134),rgb(107, 150, 107),rgb(109, 109, 150));
+}
+
+#alltable{
+    border: 5px solid rgb(87, 151, 116);
+    border-radius: 5px;
+}
+th,td{
+    margin: 10px;
+    padding: 5px;
+    border-radius: 45px;
+    width: 10%;
+    border: 3px solid rgb(128, 149, 177);
+    text-align:center;
+}
+td:hover{
+    cursor: pointer;
+    background:linear-gradient(rgb(58, 58, 122),rgb(61, 158, 137),yellow,rgb(82, 139, 82));
+}
